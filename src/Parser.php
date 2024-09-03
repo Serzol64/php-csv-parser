@@ -15,6 +15,7 @@ namespace JamesGordo\CSV;
  * @version  1.0.1
  */
 
+#[\AllowDynamicProperties]
 class Parser
 {
     /**
